@@ -1,0 +1,12 @@
+torch 
+torchaudio 
+transformers 
+openai-whisper 
+yt-dlp 
+ffmpeg-python 
+streamlit 
+plotly 
+python-dotenv 
+requests 
+google-api-python-client 
+sentencepiece
