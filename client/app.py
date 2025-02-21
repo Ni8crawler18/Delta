@@ -1,9 +1,3 @@
-"""
-app.py - Streamlit Dashboard for Truth Tell
-
-Real-time misinformation detection dashboard for live broadcasts.
-"""
-
 import streamlit as st
 import sys
 import os

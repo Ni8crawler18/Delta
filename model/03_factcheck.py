@@ -1,10 +1,3 @@
-"""
-03_factcheck.py - Fact Checking Module
-
-This module verifies claims by using Google Fact Check API and 
-other fact checking resources.
-"""
-
 import requests
 import json
 import os

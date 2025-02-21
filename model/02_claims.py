@@ -1,10 +1,3 @@
-"""
-02_claims.py - Misinformation Detection Model
-
-This module identifies claims in text that might contain misinformation
-using DistilBERT transformer model.
-"""
-
 import torch
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 import re

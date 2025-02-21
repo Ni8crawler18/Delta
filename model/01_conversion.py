@@ -1,10 +1,3 @@
-"""
-01_conversion.py - YouTube Link to Text Conversion Module
-
-This module downloads YouTube videos, extracts audio, and converts speech to text
-with punctuation restoration.
-"""
-
 import os
 import tempfile
 import yt_dlp

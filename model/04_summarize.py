@@ -1,10 +1,3 @@
-"""
-04_summarize.py - Summarization Module
-
-This module generates summaries of fact checking results,
-highlighting key areas of misinformation.
-"""
-
 import torch
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 from sentence_transformers import SentenceTransformer
