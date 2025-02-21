@@ -3,7 +3,7 @@
 ## Overview
 **Delta** is an AI-powered pipeline for detecting misinformation in live broadcasts. It extracts text from live video feeds, analyzes claims using NLP, and fact-checks them in real time. The results are presented on a **Streamlit dashboard**.
 
-🔗 **Live Demo:** [Delta Streamlit App](https://delta.streamlit.app)
+🔗 **Live Demo:** [Delta Streamlit App](https://delta_newsanalyzer.streamlit.app)
 
 ## Features
 - 🎥 **Live Video Processing** - Converts YouTube/live video to text using FFMPEG & Whisper.
