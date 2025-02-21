@@ -16,7 +16,7 @@
 
 Below is the workflow for **Delta**, illustrating the process of extracting, analyzing, and fact-checking claims from live video streams.
 
-![Workflow](assets/workflow.jpg)
+![Workflow](assets/workflow.png)
 
 
 
